@@ -1,0 +1,39 @@
+
+List of Scenarios/Modules to Automate
+Here are detailed scenarios/modules to automate for Demoblaze:
+
+Homepage
+
+Verify page load: Ensure all elements load correctly on the homepage.
+Search functionality: Verify search functionality for various product names.
+Navigation links: Verify navigation to various sections (e.g., phones, laptops, monitors).
+Product Page
+
+View product details: Check that product details (name, price, description) are correctly displayed.
+Add to cart: Test adding products to the cart.
+Product image gallery: Verify image gallery functionality (next, previous, zoom).
+Cart
+
+View cart contents: Ensure the cart page displays all added products correctly.
+Update quantity: Test changing the quantity of items in the cart.
+Remove items: Verify removing items from the cart functionality.
+Calculate total: Ensure total price updates correctly with changes in quantity or removal of items.
+Login/Signup
+
+User registration: Automate user registration with valid/invalid data.
+User login: Test user login with correct and incorrect credentials.
+Logout: Ensure that the logout functionality works correctly and redirects to the homepage.
+Checkout
+
+Proceed to checkout: Automate the checkout process with all required steps.
+Input shipping details: Test input and validation for shipping details.
+Payment processing: Verify the payment process (mock payment for testing purposes).
+Order confirmation: Ensure order confirmation is displayed with correct details.
+Contact Us
+
+Submit a message: Verify the "Contact Us" form submission with various input scenarios.
+Validation errors: Test form validation messages for incorrect inputs.
+Footer and Header
+
+Social media links: Verify that all social media links open in a new tab and navigate to the correct URLs.
+Footer links: Ensure all footer links navigate correctly to the intended pages.
